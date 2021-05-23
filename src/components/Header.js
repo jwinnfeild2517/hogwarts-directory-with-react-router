@@ -1,10 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom'
 
-
-// use activeStyle and activeStyleName to assign a special classname to
-// the active nav link or change styling inline
-
 const Header = () => (
   <header>
     <h5>Hogwarts Wizarding School</h5>

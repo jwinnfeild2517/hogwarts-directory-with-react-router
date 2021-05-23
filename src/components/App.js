@@ -13,9 +13,6 @@ const App = () => (
       <Navigation />
       <Switch>
         <Route exact path="/" component={Dashboard}/>
-
-        {/* using render we can pass a function and subsequent props to
-        a component */}
         <Route path="/students" component={StudentsSection}/>
         <Route path="/courses" component={Courses}/>
         <Route exact path="/teachers" component={Teachers}/>
