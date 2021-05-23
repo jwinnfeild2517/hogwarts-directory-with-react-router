@@ -1,0 +1,80 @@
+
+export const StudentsData = [
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+  },
+  {
+    "id": 2,
+    "name": "Hermione Granger",
+    "species": "human",
+    "gender": "female",
+    "house": "Gryffindor",
+  },
+  {
+    "id": 3,
+    "name": "Ron Weasley",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+  },
+  {
+    "id": 4,
+    "name": "Draco Malfoy",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+  },
+  {
+    "id": 5,
+    "name": "Cedric Diggory",
+    "species": "human",
+    "gender": "male",
+    "house": "Hufflepuff",
+  },
+  {
+    "id": 6,
+    "name": "Cho Chang",
+    "species": "human",
+    "gender": "female",
+    "house": "Ravenclaw",
+  },
+  {
+    "id": 7,
+    "name": "Neville Longbottom",
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+  },
+  {
+    "id": 8,
+    "name": "Luna Lovegood",
+    "species": "human",
+    "gender": "female",
+    "house": "Ravenclaw",
+  },
+  {
+    "id": 9,
+    "name": "Ginny Weasley",
+    "species": "human",
+    "gender": "female",
+    "house": "Gryffindor",
+  },
+  {
+    "id": 10,
+    "name": "Vincent Crabbe",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+  },
+  {
+    "id": 11,
+    "name": "Gregory Goyle",
+    "species": "human",
+    "gender": "male",
+    "house": "Slytherin",
+  }
+]
